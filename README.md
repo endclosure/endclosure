@@ -34,6 +34,13 @@
 
 ---
 
+### Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,ts,nextjs,postgres,discordjs,nodejs,tailwind,git,vscode&theme=dark&perline=12" alt="stack" />
+</p>
+
+---
+
 ### How to reach me
 * Discord: **fbihauntsme**
 * [Fakecrime.bio](https://fakecrime.bio/fbihauntsme) & [Portfolio](https://wavydevelopment.xyz)
