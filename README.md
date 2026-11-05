@@ -54,6 +54,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Batman76221&theme=tokyonight"/>
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/Batman76221?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Batman76221?style=for-the-badge)
-![GitHub repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&query=%24.public_repos&url=https://api.github.com/users/Batman76221)
+![GitHub followers](https://img.shields.io/github/followers/endclosure?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/endclosure?style=for-the-badge)
+![GitHub repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&query=%24.public_repos&url=https://api.github.com/users/endclosure)
