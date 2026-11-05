@@ -9,13 +9,13 @@
 >> neofetch
 ```
 
-<img align="left" src="https://wavydevelopment.xyz/terrified.png" width="189"/>
+<img align="left" src="https://avatars.githubusercontent.com/u/242625464?s=400&u=f4a78b9698ca08f3dd0307efed302285f7f6f209&v=4" width="189"/>
 
 ```python
   Name     : Terrified
   Activity : Private and Public repositories
   Skillset : TypeScript, JavaScript, C#, CSS, HTML, Rust, Python
-  Discord  : 1447292903654428733
+  Discord  : 1567824321836089354
   Hobbies  : [
     Application Development,
     Website Developmemt,
@@ -42,8 +42,12 @@
 ---
 
 ### How to reach me
-* Discord: **fbihauntsme**
-* [Fakecrime.bio](https://fakecrime.bio/fbihauntsme) & [Portfolio](https://wavydevelopment.xyz)
+
+<p>
+  <a href="https://discord.com/users/1567824321836089354"><img src="https://img.shields.io/badge/discord-dm%20me-1f1f1f?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
+  <a href="https://github.com/endclosure"><img src="https://img.shields.io/github/followers/endclosure?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f&color=1f1f1f" alt="followers" /></a>
+</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Batman76221&theme=tokyonight"/>
