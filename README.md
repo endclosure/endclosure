@@ -79,12 +79,4 @@
   <a href="https://discord.com/users/1567824321836089354"><img src="https://img.shields.io/badge/discord-dm%20me-1f1f1f?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
   <a href="https://github.com/endclosure"><img src="https://img.shields.io/github/followers/endclosure?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f&color=1f1f1f" alt="followers" /></a>
 </p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Batman76221&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Batman76221&theme=tokyonight"/>
-  ![GitHub followers](https://img.shields.io/github/followers/endclosure?style=for-the-badge)
-</p>
-
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
