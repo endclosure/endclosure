@@ -87,5 +87,4 @@
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/endclosure?style=for-the-badge)
-<img width="369" height="185" alt="image" src="https://cdn.discordapp.com/attachments/1567856155114610719/1571846978197921903/aee0c0ebc2287d6a1243322071f56752.gif?ex=6afc3813&is=6afae693&hm=6e1b0779b3171203410f0772a6fcc201a0852dc0ac0c9cd86853240165bee876&" />
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
