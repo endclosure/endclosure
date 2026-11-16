@@ -84,7 +84,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Batman76221&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Batman76221&theme=tokyonight"/>
+  ![GitHub followers](https://img.shields.io/github/followers/endclosure?style=for-the-badge)
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/endclosure?style=for-the-badge)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
