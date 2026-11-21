@@ -70,6 +70,10 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,ts,nextjs,postgres,discordjs,nodejs,tailwind,git,vscode&theme=dark&perline=12" alt="stack" />
 </p>
+<a href="https://github.com/endclosure">
+    <img src="https://komarev.com/ghpvc/?username=accurs&style=for-the-badge">
+</a>
+
 
 ---
 
